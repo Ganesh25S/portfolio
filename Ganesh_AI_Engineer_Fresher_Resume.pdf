@@ -1,0 +1,578 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 9 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6953
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.090196 .305882 .65098 RG
+.6 w
+n 36.85039 22.67717 m 558.4252 22.67717 l S
+BT /F1 6.5 Tf 7.8 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 245.3128 14.17323 Tm (GANESH  |  AI / ML & Generative AI) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 786.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 19 Tf 21 TL 214.1464 0 Td (GANESH) Tj T* -214.1464 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 774.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 7.5 Tf 9 TL 131.4762 0 Td (Coimbatore, Tamil Nadu, India | 8807668191 | ganesh333.gia@gmail.com) Tj T* -131.4762 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 765.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 7.5 Tf 9 TL 121.2462 0 Td (LinkedIn: linkedin.com/in/ganesh-s-b93b5524a | GitHub: github.com/Ganesh25S) Tj T* -121.2462 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 742.0433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 703.2433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.3 Tm /F1 7.5 Tf 9.2 TL (Aspiring AI Engineer and Generative AI enthusiast with a B.Sc. in Physics and a strong interest in Python, Machine Learning, Large Language Models) Tj T* (\(LLMs\), Retrieval-Augmented Generation \(RAG\), LangChain, LangGraph and Agentic AI. Currently building foundational skills in AI/ML and GenAI) Tj T* (application development, with a focus on understanding how intelligent, enterprise-ready AI systems are designed and deployed. Seeking an entry-level) Tj T* (opportunity to learn, contribute and grow as an AI Engineer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 688.7433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 677.5433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Programming:) Tj /F1 7.5 Tf ( Python, SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 667.3433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (AI & ML:) Tj /F1 7.5 Tf ( Machine Learning fundamentals, Deep Learning fundamentals, NLP fundamentals, Data Preprocessing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 657.1433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Data Visualization:) Tj /F1 7.5 Tf ( Matplotlib, Seaborn) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 646.9433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Generative AI:) Tj /F1 7.5 Tf ( LLMs, Generative AI fundamentals, Prompt Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 636.7433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (LLM Application:) Tj /F1 7.5 Tf ( RAG fundamentals, Embeddings, Semantic Search, Vector Database concepts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 626.5433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Frameworks:) Tj /F1 7.5 Tf ( LangChain, LangGraph \227 learning/foundational level) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 616.3433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Tools:) Tj /F1 7.5 Tf ( Git, GitHub, Jupyter Notebook, VS Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 601.8433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 590.5433 cm
+q
+BT 1 0 0 1 0 1.6 Tm 9.3 TL /F2 7.7 Tf 0 0 0 rg (Higher Secondary) Tj /F1 7.7 Tf ( \227 Government Higher Secondary School, Asokapuram | 2019) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 580.2433 cm
+q
+BT 1 0 0 1 0 1.6 Tm 9.3 TL /F2 7.7 Tf 0 0 0 rg (Bachelor of Science \(B.Sc.\)) Tj /F1 7.7 Tf ( \227 Physics | 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 565.7433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (COURSES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 554.5433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (AI Tech Academy) Tj /F1 7.5 Tf ( \227 AI/ML | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 540.0433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (AI / GENAI LEARNING PROFILE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 528.8433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Building foundational knowledge of LLMs, RAG pipelines, prompt engineering and AI application development.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 519.1433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Learning LangChain for LLM orchestration, retrieval workflows and application development.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 509.4433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Learning LangGraph for stateful, multi-step AI agent workflows and orchestration.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 499.7433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Exploring Agentic AI concepts including tool use, workflow planning and task automation.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 490.0433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Developing Python and SQL skills for AI/ML applications.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 475.5433 cm
+q
+BT 1 0 0 1 0 1.3 Tm 10.5 TL /F2 9.2 Tf .090196 .305882 .65098 rg (ACHIEVEMENTS & LEADERSHIP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 464.3433 cm
+q
+BT 1 0 0 1 9 1.7 Tm -5 0 Td 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 ) Tj /F2 7.5 Tf (Volleyball Zone Runner) Tj /F1 7.5 Tf ( \227 2021 | Kongunadu Arts and Science College) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 454.6433 cm
+q
+BT 1 0 0 1 9 1.7 Tm -5 0 Td 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 ) Tj /F2 7.5 Tf (Kho-Kho Zone Winner) Tj /F1 7.5 Tf ( \227 2019 | Government Higher Secondary School, Asokapuram) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 444.9433 cm
+q
+BT 1 0 0 1 9 1.7 Tm -5 0 Td 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 ) Tj /F2 7.5 Tf (President \227 Official Volleyball Club) Tj /F1 7.5 Tf ( | Since 2024 | Leadership, coordination and team activities) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 430.4433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (CAREER OBJECTIVE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 410.0433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.5 Tf 9.2 TL (To start my career as an AI Engineer / Generative AI Engineer and apply my growing knowledge of Python, LLMs, RAG, LangChain, LangGraph and) Tj T* (Agentic AI to real-world business problems while continuously improving my technical and problem-solving abilities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 395.5433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (STRENGTHS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 384.3433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 Analytical and logical thinking  ) Tj (  \177 Problem-solving mindset  ) Tj (  \177 Quick learner and self-motivated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 374.1433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 Strong interest in emerging AI technologies  ) Tj (  \177 Adaptability and continuous learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 359.6433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (ADDITIONAL INFORMATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 348.4433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Target Roles:) Tj /F1 7.5 Tf ( AI Engineer, Generative AI Engineer, LLM Engineer, Junior AI/ML Engineer) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+>>
+endobj
+10 0 obj
+<<
+/Length 6991
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.090196 .305882 .65098 RG
+.6 w
+n 36.85039 22.67717 m 558.4252 22.67717 l S
+BT /F1 6.5 Tf 7.8 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 245.3128 14.17323 Tm (GANESH  |  AI / ML & Generative AI) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 786.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 19 Tf 21 TL 214.1464 0 Td (GANESH) Tj T* -214.1464 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 774.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 7.5 Tf 9 TL 131.4762 0 Td (Coimbatore, Tamil Nadu, India | 8807668191 | ganesh333.gia@gmail.com) Tj T* -131.4762 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 765.5433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F1 7.5 Tf 9 TL 121.2462 0 Td (LinkedIn: linkedin.com/in/ganesh-s-b93b5524a | GitHub: github.com/Ganesh25S) Tj T* -121.2462 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 742.0433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 703.2433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.3 Tm /F1 7.5 Tf 9.2 TL (Aspiring AI Engineer and Generative AI enthusiast with a B.Sc. in Physics and a strong interest in Python, Machine Learning, Large Language Models) Tj T* (\(LLMs\), Retrieval-Augmented Generation \(RAG\), LangChain, LangGraph and Agentic AI. Currently building foundational skills in AI/ML and GenAI) Tj T* (application development, with a focus on understanding how intelligent, enterprise-ready AI systems are designed and deployed. Seeking an entry-level) Tj T* (opportunity to learn, contribute and grow as an AI Engineer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 688.7433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 677.5433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Programming:) Tj /F1 7.5 Tf ( Python, SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 667.3433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (AI & ML:) Tj /F1 7.5 Tf ( Machine Learning fundamentals, Deep Learning fundamentals, NLP fundamentals, Data Preprocessing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 657.1433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Data Visualization:) Tj /F1 7.5 Tf ( Matplotlib, Seaborn) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 646.9433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Generative AI:) Tj /F1 7.5 Tf ( LLMs, Generative AI fundamentals, Prompt Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 636.7433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (LLM Application:) Tj /F1 7.5 Tf ( RAG fundamentals, Embeddings, Semantic Search, Vector Database concepts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 626.5433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Frameworks:) Tj /F1 7.5 Tf ( LangChain, LangGraph \227 learning/foundational level) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 616.3433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Tools:) Tj /F1 7.5 Tf ( Git, GitHub, Jupyter Notebook, VS Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 601.8433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 590.5433 cm
+q
+BT 1 0 0 1 0 1.6 Tm 9.3 TL /F2 7.7 Tf 0 0 0 rg (Higher Secondary) Tj /F1 7.7 Tf ( \227 Government Higher Secondary School, Asokapuram | 2019) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 580.2433 cm
+q
+BT 1 0 0 1 0 1.6 Tm 9.3 TL /F2 7.7 Tf 0 0 0 rg (Bachelor of Science \(B.Sc.\)) Tj /F1 7.7 Tf ( in Physics \227 Kongunadu Arts and Science College | 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 565.7433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (COURSES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 554.5433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (AI Tech Academy) Tj /F1 7.5 Tf ( \227 AI/ML | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 540.0433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (AI / GENAI LEARNING PROFILE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 528.8433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Building foundational knowledge of LLMs, RAG pipelines, prompt engineering and AI application development.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 519.1433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Learning LangChain for LLM orchestration, retrieval workflows and application development.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 509.4433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Learning LangGraph for stateful, multi-step AI agent workflows and orchestration.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 499.7433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Exploring Agentic AI concepts including tool use, workflow planning and task automation.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 490.0433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.7 Tm /F1 7.5 Tf 9.2 TL -5 0 Td (\177 Developing Python and SQL skills for AI/ML applications.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 475.5433 cm
+q
+BT 1 0 0 1 0 1.3 Tm 10.5 TL /F2 9.2 Tf .090196 .305882 .65098 rg (ACHIEVEMENTS & LEADERSHIP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 464.3433 cm
+q
+BT 1 0 0 1 9 1.7 Tm -5 0 Td 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 ) Tj /F2 7.5 Tf (Volleyball Zone Runner) Tj /F1 7.5 Tf ( \227 2021 | Kongunadu Arts and Science College) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 454.6433 cm
+q
+BT 1 0 0 1 9 1.7 Tm -5 0 Td 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 ) Tj /F2 7.5 Tf (Kho-Kho Zone Winner) Tj /F1 7.5 Tf ( \227 2019 | Government Higher Secondary School, Asokapuram) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 444.9433 cm
+q
+BT 1 0 0 1 9 1.7 Tm -5 0 Td 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 ) Tj /F2 7.5 Tf (President \227 Official Volleyball Club) Tj /F1 7.5 Tf ( | Since 2024 | Leadership, coordination and team activities) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 430.4433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (CAREER OBJECTIVE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 410.0433 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.5 Tf 9.2 TL (To start my career as an AI Engineer / Generative AI Engineer and apply my growing knowledge of Python, LLMs, RAG, LangChain, LangGraph and) Tj T* (Agentic AI to real-world business problems while continuously improving my technical and problem-solving abilities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 395.5433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (STRENGTHS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 384.3433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 Analytical and logical thinking  ) Tj (  \177 Problem-solving mindset  ) Tj (  \177 Quick learner and self-motivated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 374.1433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F1 7.5 Tf 0 0 0 rg (\177 Strong interest in emerging AI technologies  ) Tj (  \177 Adaptability and continuous learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 359.6433 cm
+q
+.090196 .305882 .65098 rg
+BT 1 0 0 1 0 1.3 Tm /F2 9.2 Tf 10.5 TL (ADDITIONAL INFORMATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 348.4433 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.2 TL /F2 7.5 Tf 0 0 0 rg (Target Roles:) Tj /F1 7.5 Tf ( AI Engineer, Generative AI Engineer, LLM Engineer, Junior AI/ML Engineer) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000178 00000 n 
+0000000378 00000 n 
+0000007383 00000 n 
+0000007424 00000 n 
+0000007531 00000 n 
+0000007643 00000 n 
+0000007664 00000 n 
+trailer
+<<
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+14708
+%%EOF
