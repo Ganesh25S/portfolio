@@ -17,7 +17,7 @@ Upload the folder to Vercel, Netlify, or GitHub Pages.
 - Interactions/theme/navigation: `script.js`
 - Resume download: `Ganesh_AI_Engineer_Fresher_Resume.pdf`
 
-The portfolio content is based on the supplied resume. No projects or work experience were invented.
+The portfolio content is based on the supplied resume and the real projects listed in the Projects section.
 
 
 ## Recent UI Updates
@@ -25,3 +25,5 @@ The portfolio content is based on the supplied resume. No projects or work exper
 - Added volleyball leadership/achievement details.
 - Reduced spacing between portfolio sections.
 - Updated resume with Achievements & Leadership.
+
+- Added Projects section: PDF Chatbot (RAG) and Multilingual Image Translator.
